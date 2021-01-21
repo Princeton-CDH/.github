@@ -1,7 +1,7 @@
 ---
 name: Django Admin
 about: Document decisions about how django admin should be configured for a particular model
-title: ''
+title: 'As a content editor, I want to create and edit ### records so that I can document ###'
 assignees: ''
 
 ---
