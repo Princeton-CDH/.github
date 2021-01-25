@@ -40,5 +40,11 @@ Which field (if any) should be used for date hierarchy? (must be a date object)
 **List Fields (optional)**
 Which fields (if any) should be editable on the django admin list view?
 
+**Field translation (optional)**
+Which fields (if any) do you want to provide in multiple languages?
+
+**Related models**
+List any directly related models (database tables) that would be helpful to edit when on the same page when editing this one.
+
 **Additional context**
 Add any other context about the model or database here. Include a link to a database diagram if one is available.
