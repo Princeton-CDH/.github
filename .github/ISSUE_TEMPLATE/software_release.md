@@ -27,5 +27,5 @@ assignees: ''
 
 ## after release
 - [ ] Increase the develop branch version so it is set to the next expected release (i.e., if you just released 0.5 then develop will probably be 0.6-dev unless you are working on a major update, in which case it will be 1.0-dev)
-- [ ] Push all updates to GitHub (main branch, develop branch, tags) (You can use git push --all origin but make sure there are no extra release branches locally)
+- [ ] Push all updates to GitHub (main branch, develop branch, tags) 
 - [ ] Clean up any release branches on GitHub
