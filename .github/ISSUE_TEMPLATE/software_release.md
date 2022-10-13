@@ -17,6 +17,7 @@ assignees: ''
 - [ ] Update any README badges that are pointing to develop branches to use either main or default branch (travis-ci build, code coverage, etc).
 - [ ] Make sure local settings are documented (for django app: sample local settings file includes any new configurations).
 - [ ] Check python requirements for any internal dependencies that should be released (or at least pinned to a specific git commit)
+- [ ] Release & publish any internal JS dependencies with updates; specfy the published version number in package.json
 - [ ] Use npm audit to check and fix vulnerabilities in npm dependencies
 - [ ] Make sure that unit tests are passing on travis-ci for release branch (fix them if they are not)
 - [ ] Make sure code coverage is 95% or higher. Review for any important gaps.
