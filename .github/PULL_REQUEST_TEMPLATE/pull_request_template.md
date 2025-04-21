@@ -17,5 +17,5 @@ _Include **discrete** checks that should be part of the review beyond reviewing 
 code and/or file changes. Note that this check list will correspond to tasks within
 the PR overview page._
 
--[ ] Check #1
--[ ] Check #2
+- [ ] Check #1
+- [ ] Check #2
