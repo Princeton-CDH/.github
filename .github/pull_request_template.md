@@ -12,8 +12,8 @@ _Include any additional notes that will help in the reviewing of this pull reque
 - Note 1
 - Note 2
 
-### Evaluation
-_Include **discrete** checks that should be part of the review beyond reviewing the
+### Reviewer Checklist
+_Include **discrete** checks that should be done by the reviewer beyond looking through
 code and/or file changes. Note that this check list will correspond to tasks within
 the PR overview page._
 
